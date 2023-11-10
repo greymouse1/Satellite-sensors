@@ -1,5 +1,6 @@
-# ss_lab1
-Satellite sensors lab 1
+# Satellite sensors - Universite Gävle
+
+Lab 1
 
 First lab session for the course. Has three tasks.
 1. Conversion of geodetic coordinates to cartesian and vice versa
